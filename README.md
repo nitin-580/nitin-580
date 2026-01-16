@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![Banner](nitin-kumar.png)<p align="center">
-  <img src="nitin-kumar.png" width="100%">
-</p>
+![Banner](nitin-kumar.png)
 
 <h1 align="center">Hi, I'm Nitin Kumar 👋</h1>
 
@@ -73,8 +71,8 @@ Next.js • Google Maps API • Firebase
 ---
 
 ## 📫 Contact Me
-- 📩 Email: **your-email@example.com**
-- 💼 LinkedIn: [Your LinkedIn Link](#)
+- 📩 Email: **iitknitin06@gmail.com**
+- 💼 LinkedIn: [[Your LinkedIn Link](https://www.linkedin.com/in/nitin-kumar-518528284/)(#)
 - 🌐 Portfolio: coming soon...
 
 ---
