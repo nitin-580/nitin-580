@@ -2,7 +2,7 @@
 
 ![Banner](nitin-kumar.png)
 
-<h1 align="center">Hi, I'm Nitin Kumar 👋</h1>
+<h1 align="center">Hi, I'm Nitin Bharadwaj 👋</h1>
 
 <p align="center">
   🔥 Full-Stack Developer | AI Automation | Next.js | TypeScript
