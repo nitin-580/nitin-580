@@ -21,17 +21,28 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-`Next.js` • `React` • `TypeScript` • `TailwindCSS`
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" />
 
-**Backend:**  
-`Node.js` • `Firebase` • `MongoDB` • `REST APIs` • `JWT Auth`
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
 
-**AI / Automation:**  
-`LangChain` • `LangGraph` • `Python (Basics)` • `Chatbots`
+  <!-- AI / Automation -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
 
-**Tools:**  
-`GitHub` • `Docker` • `Google Cloud` • `Grafana` • `Postman`
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
+</p>
 
 ---
 
@@ -72,7 +83,7 @@ Next.js • Google Maps API • Firebase
 
 ## 📫 Contact Me
 - 📩 Email: **iitknitin06@gmail.com**
-- 💼 LinkedIn: [[Your LinkedIn Link](https://www.linkedin.com/in/nitin-kumar-518528284/)(#)
+- 💼 LinkedIn: https://www.linkedin.com/in/nitin-kumar-518528284/
 - 🌐 Portfolio: coming soon...
 
 ---
