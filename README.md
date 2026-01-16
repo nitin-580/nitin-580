@@ -11,9 +11,8 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Integrated MSc Mathematics @ NIT Surat  
-- 💡 Building PulseCare — an AI-powered hospital management system  
-- ⚙️ Working on MentorMate, Car Wash Platform & Amage (AI photo filtering)  
+- 🎓 MS Mathematics @ NIT Surat (National Institute Of Technology, Surat) 
+- ⚙️ Worked on MentorMate, Car Wash Platform & Amage (AI photo filtering)  
 - 🤖 Exploring AI automation workflows using LangChain & LangGraph  
 - 🧠 Learning Postgres, Kafka, InfluxDB, and scalable backend systems  
 
@@ -63,14 +62,6 @@
 
 ## 📌 Featured Projects
 
-### 🔹 **PulseCare — Centralized Hospital Management + AI Diagnostics**  
-Next.js • TypeScript • Firebase • Google APIs  
-✔ Smart patient analytics  
-✔ Preventive healthcare predictions  
-✔ OPD, billing & records automation
-
----
-
 ### 🔹 **MentorMate — Mentor/Mentee Platform**  
 React (Vite) • MongoDB • Razorpay  
 ✔ Multi-role dashboards  
@@ -84,6 +75,7 @@ Next.js • Google Maps API • Firebase
 ✔ Real-time location picker  
 ✔ Google Sheets backend  
 ✔ Seamless booking flow
+[![Open App](https://img.shields.io/badge/Open%20Live%20Site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gleenautowash.vercel.app)
 
 ---
 
