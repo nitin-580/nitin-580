@@ -89,8 +89,9 @@ Next.js • Google Maps API • Firebase
 ---
 
 ## 📫 Contact Me
-- 📩 Email: **iitknitin06@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/nitin-kumar-518528284/
+-  Email: **iitknitin06@gmail.com**
+-  LinkedIn: https://www.linkedin.com/in/nitin-kumar-518528284/
+-  Resume: https://drive.google.com/file/d/1TKEgdkdDha4utiRJnSv9rBTE3-fWRMyx/view
 - 🌐 Portfolio: coming soon...
 
 ---
