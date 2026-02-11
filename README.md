@@ -67,6 +67,7 @@ React (Vite) • MongoDB • Razorpay
 ✔ Multi-role dashboards  
 ✔ Scheduling + Video calling  
 ✔ Secure payments
+[![Open App](https://img.shields.io/badge/Open%20Live%20Site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://mentor-mate-three.vercel.app/)
 
 ---
 
