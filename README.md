@@ -78,22 +78,34 @@ Next.js • Google Maps API • Firebase
 ✔ Seamless booking flow
 [![Open App](https://img.shields.io/badge/Open%20Live%20Site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gleenautowash.vercel.app)
 
+---
+
 ### 🔹 **ATPAC — Alumni Training & Placement Affairs Council, SVNIT**
 
-✔ Official institutional website development
-✔ Alumni engagement & placement information portal
-✔ Structured information architecture
-✔ Professional, responsive UI
-[![Open App](https://img.shields.io/badge/Open%20Live%20Site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://atpac-svnit.in)
+✔ Official institutional website development  
+✔ Alumni engagement & placement information portal  
+✔ Structured information architecture  
+✔ Professional, responsive UI  
 
+<p>
+<a href="https://atpac-svnit.in">
+<img src="https://img.shields.io/badge/Open%20Live%20Site-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+---
 ### 🔹 **RIAC — Research & Innovation Affairs Council, SVNIT**
 
-✔ Startup Expo digital management platform
-✔ Contest registration & event handling system
-✔ Interactive modules & engagement features
-✔ Student–Professor innovation collaboration system
-[![Open App](https://img.shields.io/badge/Open%20Live%20Site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://riac-svnit.in)
+✔ Startup Expo digital management platform  
+✔ Contest registration & event handling system  
+✔ Interactive modules & engagement features  
+✔ Student–Professor innovation collaboration system  
 
+<p>
+<a href="https://riac-svnit.in">
+<img src="https://img.shields.io/badge/Open%20Live%20Site-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
 ---
 
