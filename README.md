@@ -60,7 +60,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 🔹 **MentorMate — Mentor/Mentee Platform**  
 React (Vite) • MongoDB • Razorpay  
@@ -77,6 +77,23 @@ Next.js • Google Maps API • Firebase
 ✔ Google Sheets backend  
 ✔ Seamless booking flow
 [![Open App](https://img.shields.io/badge/Open%20Live%20Site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gleenautowash.vercel.app)
+
+### 🔹 **ATPAC — Alumni Training & Placement Affairs Council, SVNIT**
+
+✔ Official institutional website development
+✔ Alumni engagement & placement information portal
+✔ Structured information architecture
+✔ Professional, responsive UI
+[![Open App](https://img.shields.io/badge/Open%20Live%20Site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://atpac-svnit.in)
+
+### 🔹 **RIAC — Research & Innovation Affairs Council, SVNIT**
+
+✔ Startup Expo digital management platform
+✔ Contest registration & event handling system
+✔ Interactive modules & engagement features
+✔ Student–Professor innovation collaboration system
+[![Open App](https://img.shields.io/badge/Open%20Live%20Site-000?style=for-the-badge&logo=vercel&logoColor=white)](https://riac-svnit.in)
+
 
 ---
 
